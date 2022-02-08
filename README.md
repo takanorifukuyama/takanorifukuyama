@@ -9,9 +9,11 @@ hi!
   <img alt="Miro" src="https://img.shields.io/badge/-Miro-jj050038?style=flat&logo=miro&logoColor=white" />
   <img alt="Affinity designer" src="https://img.shields.io/badge/-Affinity Designer-1B72BE?style=flat&logo=affinity-designer&logoColor=white" />
   <img alt="GoogleAnalytics" src="https://img.shields.io/badge/-Google analytics-E37400?style=flat&logo=google-analytics&logoColor=white" />
-
+  <br />
+  <br />
   <img alt="neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white" />
-
+  <br />
+  <br />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud-1a73e8?style=flat&logo=google-cloud&logoColor=white" />
@@ -19,12 +21,14 @@ hi!
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
   <img alt="Helm" src="https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=helm&logoColor=white" />
-
+  <br />
+  <br />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" />
   <img alt="gRPC" src="https://img.shields.io/badge/-gRPC-00ADD8?style=flat" />
   <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-
+  <br />
+  <br />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
@@ -38,9 +42,9 @@ hi!
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white" />
-
+  <br /><br />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-
+  <br /><br />
   <img alt="Clean Architecture" src="https://img.shields.io/badge/-Clean architecture-000000?style=flat" />
   <img alt="DDD" src="https://img.shields.io/badge/-DDD-000000?style=flat" />
   <img alt="lean" src="https://img.shields.io/badge/-lean-000000?style=flat" />
