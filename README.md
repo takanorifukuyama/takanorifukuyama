@@ -1,6 +1,6 @@
 # Takanori Fukuyama
 
-Hi! I work as a product manager　or software developer. 
+Hi! I work as a product manager　or　software developer. 
 
 [My TODO](https://github.com/users/takanorifukuyama/projects/3/views/4)
 
