@@ -38,6 +38,8 @@
 
 Hi! I work as a product manager or software developer. 
 
+## Vision and Ambitious
+
 [previous toto board](https://github.com/users/takanorifukuyama/projects/2?fullscreen=true) →移動中→
 [My TODO](https://github.com/users/takanorifukuyama/projects/3/views/4)
 
