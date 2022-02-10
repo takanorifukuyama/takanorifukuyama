@@ -5,6 +5,8 @@ Hi! I work as a product manager or software developer.
 [previous toto board](https://github.com/users/takanorifukuyama/projects/2?fullscreen=true) →移動中→
 [My TODO](https://github.com/users/takanorifukuyama/projects/3/views/4)
 
+[My Issue board -miro-](https://miro.com/app/board/o9J_lYA928k=/?invite_link_id=178981857028)
+
 <p>
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img alt="Miro" src="https://img.shields.io/badge/-Miro-jj050038?style=flat&logo=miro&logoColor=white" />
