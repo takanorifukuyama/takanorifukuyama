@@ -1,15 +1,5 @@
 # Takanori Fukuyama
 
-Hi! I work as a product manager or software developer. 
-
-[previous toto board](https://github.com/users/takanorifukuyama/projects/2?fullscreen=true) →移動中→
-[My TODO](https://github.com/users/takanorifukuyama/projects/3/views/4)
-
-
-[My Issue board -miro-](https://miro.com/app/board/o9J_lYA928k=/?invite_link_id=178981857028)
-
-<img width="1130" alt="Screen Shot 2022-02-10 at 9 40 04" src="https://user-images.githubusercontent.com/43323776/153314772-9a370e2a-5f4a-477c-a319-d6b6eea448b7.png">
-
 <p>
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img alt="Miro" src="https://img.shields.io/badge/-Miro-jj050038?style=flat&logo=miro&logoColor=white" />
@@ -45,3 +35,15 @@ Hi! I work as a product manager or software developer.
   <img alt="DDD" src="https://img.shields.io/badge/-DDD-000000?style=flat" />
   <img alt="lean" src="https://img.shields.io/badge/-lean-000000?style=flat" />
 </p>
+
+Hi! I work as a product manager or software developer. 
+
+[previous toto board](https://github.com/users/takanorifukuyama/projects/2?fullscreen=true) →移動中→
+[My TODO](https://github.com/users/takanorifukuyama/projects/3/views/4)
+
+
+[My Issue board -miro-](https://miro.com/app/board/o9J_lYA928k=/?invite_link_id=178981857028)
+
+<img width="1130" alt="Screen Shot 2022-02-10 at 9 40 04" src="https://user-images.githubusercontent.com/43323776/153314772-9a370e2a-5f4a-477c-a319-d6b6eea448b7.png">
+
+
