@@ -38,6 +38,10 @@
 
 Hi! I work as a product manager or software developer. 
 
+## Schedule
+
+https://app.spirinc.com/patterns/availability-sharing/dbefab20-8b16-421c-896d-89685c862dba/confirm
+
 ## Vision and Ambitious
 
 [previous toto board](https://github.com/users/takanorifukuyama/projects/2?fullscreen=true) →移動中→
