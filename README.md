@@ -53,3 +53,10 @@ https://app.spirinc.com/patterns/availability-sharing/dbefab20-8b16-421c-896d-89
 <img width="1130" alt="Screen Shot 2022-02-10 at 9 40 04" src="https://user-images.githubusercontent.com/43323776/153314772-9a370e2a-5f4a-477c-a319-d6b6eea448b7.png">
 
 
+
+## Current projects and status
+
+https://transparecy.notion.site/
+
+<img width="1500" alt="Screenshot 2022-12-19 at 18 01 19" src="https://user-images.githubusercontent.com/43323776/208387625-d2376a22-d76b-4d29-95fd-547aa855df26.png">
+
