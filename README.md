@@ -60,3 +60,8 @@ https://transparecy.notion.site/
 
 <img width="1500" alt="Screenshot 2022-12-19 at 18 01 19" src="https://user-images.githubusercontent.com/43323776/208387625-d2376a22-d76b-4d29-95fd-547aa855df26.png">
 
+
+[![](https://raw.githubusercontent.com/takanorifukuyama/takanorifukuyama/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/takanorifukuyama/takanorifukuyama/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/takanorifukuyama/takanorifukuyama/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/takanorifukuyama/takanorifukuyama/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/takanorifukuyama/takanorifukuyama/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
