@@ -1,0 +1,18 @@
+{
+  "name": "takanorifukuyama",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "zenn:new": "zenn new:article",
+    "zenn:book": "zenn new:book",
+    "zenn:preview": "zenn preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zenn-cli": "^0.1.140"
+  }
+}
