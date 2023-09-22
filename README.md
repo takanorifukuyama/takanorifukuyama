@@ -40,7 +40,7 @@ Hi! I work as a product manager or software developer.
 
 ## Schedule
 
-https://app.spirinc.com/patterns/availability-sharing/dbefab20-8b16-421c-896d-89685c862dba/confirm
+https://app.spirinc.com/patterns/availability-sharing/eb91e159-ae50-4835-bf7f-9291f85adade/confirm
 
 ## Vision and Ambitious
 
