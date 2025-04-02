@@ -1,5 +1,9 @@
 # Takanori Fukuyama
 
+会社を友達とやってます
+
+https://quantum-box.com
+
 <p>
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img alt="Miro" src="https://img.shields.io/badge/-Miro-jj050038?style=flat&logo=miro&logoColor=white" />
