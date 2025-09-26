@@ -52,9 +52,10 @@ https://app.spirinc.com/patterns/availability-sharing/eb91e159-ae50-4835-bf7f-92
 [My TODO](https://github.com/users/takanorifukuyama/projects/3/views/4)
 
 
-[My Issue board -miro-](https://miro.com/app/board/o9J_lYA928k=/?invite_link_id=178981857028)
+[My Issue board -miro-](https://miro.com/app/board/uXjVJCorrbM=/?share_link_id=296277616510)
 
-<img width="1130" alt="Screen Shot 2022-02-10 at 9 40 04" src="https://user-images.githubusercontent.com/43323776/153314772-9a370e2a-5f4a-477c-a319-d6b6eea448b7.png">
+
+<img width="1252" height="833" alt="Screenshot 2025-09-26 at 9 46 35" src="https://github.com/user-attachments/assets/7ea2342a-09fd-4222-9936-121a588df2e3" />
 
 
 
