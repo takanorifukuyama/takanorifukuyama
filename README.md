@@ -44,7 +44,7 @@ Hi! I work as a product manager or software developer.
 
 ## Schedule
 
-https://app.spirinc.com/patterns/availability-sharing/eb91e159-ae50-4835-bf7f-9291f85adade/confirm
+https://meetings.hubspot.com/takanori-fukuyama
 
 ## Vision and Ambitious
 
